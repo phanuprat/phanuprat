@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fuxy</h1>
 <h3 align="center">A senior frontend developer from Thailand</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuxytech" alt="fuxytech" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dddd" height="30" width="40" /></a>
@@ -20,3 +18,4 @@
 <p><a href="https://ko-fi.com/jgjgfdgj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jgjgfdgj" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuxytech&show_icons=true&locale=en" alt="fuxytech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuxytech&show_icons=true&theme=radical" alt="fuxytech" /></p>
