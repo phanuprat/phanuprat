@@ -17,7 +17,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jgjgfdgj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jgjgfdgj" /></a></p><br><br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fuxytech&show_icons=true&locale=en" alt="fuxytech" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fuxytech&show_icons=true&locale=en" alt="fuxytech" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuxytech&show_icons=true&theme=radical" alt="fuxytech" /></p>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FuxyTech&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuxyTech&show_icons=true&theme=radical)
