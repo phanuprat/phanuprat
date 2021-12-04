@@ -19,3 +19,5 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fuxytech&show_icons=true&locale=en" alt="fuxytech" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuxytech&show_icons=true&theme=radical" alt="fuxytech" /></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FuxyTech&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuxyTech&show_icons=true&theme=radical)
