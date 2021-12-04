@@ -1,6 +1,15 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Fuxy</h1>
-<h3 align="center">A senior frontend developer from Thailand</h3>
+<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+- 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+
+- 📫 How to reach me **talktokhushboogoel@gmail.com**
+
+- ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +27,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jgjgfdgj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jgjgfdgj" /></a></p><br><br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FuxyTech&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuxyTech&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+
+
+
+
