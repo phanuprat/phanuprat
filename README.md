@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FuxyTech&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=FuxyTech&count_private=true&show_icons=true&theme=radical)
