@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://www.img.in.th/images/7f6d46bf0105327359d051167b1fc696.png">
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://www.img.in.th/images/7f6d46bf0105327359d051167b1fc696.png">
 
 - 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
 
