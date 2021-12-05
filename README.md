@@ -1,14 +1,14 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+<h1 align="center">Hi 👋, I'm Fuxy</h1>
+<h3 align="center">Fullstack Developer from Thailand!!</h3>
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://www.img.in.th/images/7f6d46bf0105327359d051167b1fc696.png">
 
-- 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://realphanu.com/)
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 📫 How to reach me : xin@realphanu.com
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact : 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
