@@ -1,5 +1,5 @@
-//[![MasterHead](https://cdn.dribbble.com/users/241205/screenshots/15994730/media/b52c5e770d9c53f5c07311c003577b5b.png)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Fuxy</h1>
+
+<h1 align="center">Hi 👋, I'm Phanuprat</h1>
 <h3 align="center">Fullstack Developer from Thailand!!</h3>
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://www.img.in.th/images/7f6d46bf0105327359d051167b1fc696.png">
