@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
+[![MasterHead](https://cdn.dribbble.com/users/241205/screenshots/15994730/media/b52c5e770d9c53f5c07311c003577b5b.png)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Fuxy</h1>
 <h3 align="center">Fullstack Developer from Thailand!!</h3>
 
