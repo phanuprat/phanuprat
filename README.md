@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/241205/screenshots/15994730/media/b52c5e770d9c53f5c07311c003577b5b.png)](https://khushboogoel01.github.io)
+//[![MasterHead](https://cdn.dribbble.com/users/241205/screenshots/15994730/media/b52c5e770d9c53f5c07311c003577b5b.png)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Fuxy</h1>
 <h3 align="center">Fullstack Developer from Thailand!!</h3>
 
