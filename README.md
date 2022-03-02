@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Phanuprat</h1>
-<h3 align="center">Fullstack Developer from Thailand!!</h3>
+<h3 align="center">Fullstack Developer based in Thailand!!</h3>
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://www.img.in.th/images/7f6d46bf0105327359d051167b1fc696.png">
 
