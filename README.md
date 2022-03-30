@@ -4,7 +4,7 @@
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://www.img.in.th/images/7f6d46bf0105327359d051167b1fc696.png">
 
-- 👨‍💻 You can also check out my portfolio at [https://realphanu.com/)
+- 👨‍💻 You can also check out my portfolio at [https://xin.priender.com/)
 
 - 📫 How to reach me : xin@realphanu.com
 
